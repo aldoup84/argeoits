@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information below."
+title: "ARGEOITS"
+type: software
+version: "2.0.0"
+date-released: 2020-02-10
+license: GPL-3.0-or-later
+repository-code: "https://github.com/aldoup84/argeoits"
+url: "https://github.com/aldoup84/argeoits"
+doi: "10.5281/zenodo.18199812"
+abstract: >
+  Educational software developed with Unity 2019 to support teaching and learning activities from geometry topics designed to .
+  The repository includes original source code (GPL-3.0-or-later) and references to third-party assets and
+  dependencies (Unity Asset Store assets, SQLite, Firebase) under their respective licenses/terms.
+keywords:
+  - intelligent tutoring system
+  - augmented reality
+  - intelligent learning environments
+  - unity3d
+  - fuzzy logic
+  - learning technologies
+authors:
+  - family-names: "Ibáñez-Espiga"
+    given-names: "María Blanca"
+    email: "mbi@it.uc3m.es"
+    affiliation: "Universidad Carlos III de Madrid"
+  - family-names: "Uriarte-Portillo"
+    given-names: "Aldo"
+    email: "aldo.up@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "Zatarain-Cabada"
+    given-names: "Ramón"
+    email: "ramon.zc@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "Barrón-Estrada"
+    given-names: "María Lucía"
+    email: "lucia.be@culiacan.tecnm.mx"
+    affiliation: "Instituto Tecnológico de Culiacán"
+  - family-names: "González-Barrón"
+    given-names: "Lucía Margarita"
+    email: "lucia.gonzalez@ues.mx"
+    affiliation: "Universidad de Sonora"
+
+preferred-citation:
+  type: software
+  title: "ARGEOITS"
+  authors:
+    - family-names: "Ibáñez-Espiga"
+      given-names: "María Blanca"
+    - family-names: "Uriarte-Portillo"
+      given-names: "Aldo"
+    - family-names: "Zatarain-Cabada"
+      given-names: "Ramón"
+    - family-names: "Barrón-Estrada"
+      given-names: "María Lucía"
+    - family-names: "Gónzález-Barrón"
+      given-names: "Lucía Margarita"
+
+  version: "2.0.0"
+  date-released: 2021-01-13
+  url: "https://github.com/aldoup84/argeoits"
+  license: GPL-3.0-or-later
+
+notes: >
+  Third-party assets and dependencies (Unity Asset Store assets, SQLite, Firebase) are not covered
+  by GPL-3.0-or-later. See THIRD_PARTY_NOTICES.md for licensing/terms, details, and required attributions.
