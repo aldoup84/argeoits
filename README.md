@@ -1,4 +1,4 @@
-# ReAQ (Android)
+# ARGeoITS (Android)
 ARGEOITS es una herramienta de aprendizaje desarrollada en **Unity 2019.4** que implementa la tecnología de realidad aumentada basada en la detección de marcadores, centrada en el tema de cuerpos y planos geométricos (prismas regulares). Esta herramienta de aprendizaje también le permite al usuario conocer 
 Aprender más acerca de los cálculos de área de la base, de volumen de prismas regulares, suma de volúmenes a través de colisiones de marcadores y sobre las secciones de cortes (paralelas, perpendiculares o a la generatriz) aplicados a un cilindro o un cono.
 Para trabajar con esta versión no se requiere conexión a internet, pues SQLite se ejecuta dentro del mismo dispositivo móvil. ARGeoITS está diseñada y probada en dispositivos Android 13 o superior. 
